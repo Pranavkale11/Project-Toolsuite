@@ -10,4 +10,6 @@ Just your work and our tools.
 
 ## 🏆 Contributors Leaderboard
 
-See the full leaderboard here → [LEADERBOARD.md](./LEADERBOARD.md)
+<!-- LEADERBOARD_START -->
+_Updating leaderboard..._
+<!-- LEADERBOARD_END -->
