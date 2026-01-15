@@ -19,12 +19,13 @@ We kickin' corpo butts with this one 🗣️🔥🔥🔥🔥
 
 | Rank | Contributor | Points | Commits |
 |-----:|------------|-------:|--------:|
-| 1 | @Winter262005 | 91 | 91 |
-| 2 | @AdityaMittal08 | 4 | 4 |
+| 1 | @Winter262005 | 96 | 96 |
+| 2 | @AdityaMittal08 | 5 | 5 |
 | 3 | @anshul-lh44 | 1 | 1 |
-| 4 | @SamXop123 | 1 | 1 |
-| 5 | @Shlok-Dwivedi | 1 | 1 |
-| 6 | @SuyashSoni10 | 1 | 1 |
-| 7 | @yhcb21 | 1 | 1 |
+| 4 | @Pranavkale11 | 1 | 1 |
+| 5 | @SamXop123 | 1 | 1 |
+| 6 | @Shlok-Dwivedi | 1 | 1 |
+| 7 | @SuyashSoni10 | 1 | 1 |
+| 8 | @yhcb21 | 1 | 1 |
 
 <!-- LEADERBOARD_END -->
